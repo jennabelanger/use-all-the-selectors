@@ -2,10 +2,10 @@ html{
   background-color:#fdf6e3;
 }
 
-h1{
+header, footer{
   font-size:1.5rem;
 }
 
-footer{
-  font-size:1.15rem;
+ul >nav{
+  font-family:sans-serif;
 }
