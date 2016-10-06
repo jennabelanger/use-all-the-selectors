@@ -1,5 +1,5 @@
 html{
-  background-color:#fdf6e3;
+  background-color: #fdf6e3;
 }
 
 header, footer{
@@ -8,4 +8,12 @@ header, footer{
 
 ul >nav{
   font-family:sans-serif;
+}
+
+.logo{
+  text-transform: suppercase;
+}
+
+.wrapper{
+  background-color: #eee8d5;
 }
